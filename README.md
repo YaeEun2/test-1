@@ -21,3 +21,5 @@
 + push
 - origin 연결하기
 - pull vs fetch
+
+![데베](./images/스크린샷 2023-04-30 152916.png)
